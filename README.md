@@ -7,4 +7,4 @@ Inspired by few of the legends online, I created this repo to have a working mod
 - [ ] Prims
 - [ ] Kruskal
 - [ ] Floyd Warshall
-
+- [ ] Dijkstra's
